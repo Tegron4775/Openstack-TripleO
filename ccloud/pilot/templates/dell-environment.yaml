@@ -53,6 +53,9 @@ parameter_defaults:
 
   # Number of Ceph Storage nodes
   CephStorageCount: 0
+  
+  # Configures MySQL max_connections config setting
+  MysqlMaxConnections: 15360
 
   # Configures MariaDB Buffer Pool Size
   # Setting 'dynamic' will apply 75% of total memory to innodb_buffer_pool_size
