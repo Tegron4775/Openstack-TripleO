@@ -1,0 +1,5 @@
+parameter_defaults:
+  pacecemaker::resource::bundle::deep_compare: true
+  pacemaker::resource::ip::deep_compare: true
+  pacemaker::resource::ocf::deep_compare: true
+
