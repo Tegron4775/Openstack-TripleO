@@ -230,6 +230,7 @@
     - OS::TripleO::Services::Iscsid
     - OS::TripleO::Services::Kernel
     - OS::TripleO::Services::LoginDefs
+    - OS::TripleO::Services::MySQLClient
     - OS::TripleO::Services::NeutronBgpVpnBagpipe
     - OS::TripleO::Services::NeutronLinuxbridgeAgent
     - OS::TripleO::Services::NeutronVppAgent
@@ -297,6 +298,7 @@
     - OS::TripleO::Services::Iscsid
     - OS::TripleO::Services::Kernel
     - OS::TripleO::Services::LoginDefs
+    - OS::TripleO::Services::MySQLClient
     - OS::TripleO::Services::NeutronBgpVpnBagpipe
     - OS::TripleO::Services::NeutronLinuxbridgeAgent
     - OS::TripleO::Services::NeutronVppAgent
@@ -349,6 +351,7 @@
     - OS::TripleO::Services::Iscsid
     - OS::TripleO::Services::Kernel
     - OS::TripleO::Services::LoginDefs
+    - OS::TripleO::Services::MySQLClient
     - OS::TripleO::Services::Ntp
     - OS::TripleO::Services::ContainersLogrotateCrond
     - OS::TripleO::Services::Rhsm
@@ -392,6 +395,7 @@
     - OS::TripleO::Services::Ipsec
     - OS::TripleO::Services::Kernel
     - OS::TripleO::Services::LoginDefs
+    - OS::TripleO::Services::MySQLClient
     - OS::TripleO::Services::Ntp
     - OS::TripleO::Services::ContainersLogrotateCrond
     - OS::TripleO::Services::Rhsm
@@ -430,6 +434,7 @@
     - OS::TripleO::Services::Ipsec
     - OS::TripleO::Services::Kernel
     - OS::TripleO::Services::LoginDefs
+    - OS::TripleO::Services::MySQLClient
     - OS::TripleO::Services::Ntp
     - OS::TripleO::Services::ContainersLogrotateCrond
     - OS::TripleO::Services::Rhsm
